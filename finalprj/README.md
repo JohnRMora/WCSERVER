@@ -8,6 +8,9 @@
 # install dependencies
 npm install
 
+# install webpack-dev-server
+npm install webpack-dev-server
+
 # serve with hot reload at localhost:8080
 npm run dev
 
